@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="temperature">Temperature</string>
+    <string name="condition_icon">condition</string>
+    <string name="condition">condition</string>
+    <string name="location">location</string>
+</resources>
